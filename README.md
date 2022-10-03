@@ -1,2 +1,2 @@
-# PhotoBed
-图床
+# photo_bed
+blog的图床
